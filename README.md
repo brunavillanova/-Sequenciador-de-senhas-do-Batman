@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-      <img src=".github/assets/badge.png" width="200" alt="Project Badge" />
+      <img src="./assets/.github/assets/badge.png" width="200" alt="Project Badge" />
   </a>
 
   <!-- project name -->
@@ -49,7 +49,7 @@
 
 <div align="center">
   <a href="#">
-      <img src="bat-pass-app/assets/image.png" width="200" alt="Preview Image" />
+      <img src="./assets/.github/assets/preview.png" width="200" alt="Preview Image" />
   </a>
 </div>
 
@@ -69,7 +69,7 @@ This project was developed with the following technologies:
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/brunavillanova/react-native-bat-pass-generator.git
-cd react-native-bat-pass-generator
+git clone https://github.com/brunavillanova/-Sequenciador-de-senhas-do-Batman.git
+cd  Sequenciador-de-senhas-do-Batman
 npm install
 npm run start
