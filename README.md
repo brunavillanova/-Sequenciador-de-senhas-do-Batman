@@ -21,20 +21,20 @@
     >
   -->
     <img 
-      alt="Made by Felipe Aguiar" 
-      src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
+      alt="Made by Bruna Villanova" 
+      src="https://img.shields.io/badge/made%20by-Bruna%20Villanova-%20?color=6A57D5"
     >
     <img 
       alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/brunavillanovaCode/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/languages/top/brunavillanovaCode/Sequenciador-de-senhas-do-Batman?color=6A57D5"
     >
     <img 
       alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/brunavillanovaCode/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/repo-size/brunavillanovaCode/Sequenciador-de-senhas-do-Batman?color=6A57D5"
     >
     <img 
       alt="GitHub license" 
-      src="https://img.shields.io/github/license/brunavillanovaCode/react-native-bat-pass-generator?color=6A57D5"
+      src="https://img.shields.io/github/license/brunavillanovaCode/Sequenciador-de-senhas-do-Batman?color=6A57D5"
     >
   </p> 
 
@@ -49,12 +49,12 @@
     <br />
     <br />
     <a 
-      href="https://github.com/brunavillanovaCode/react-native-bat-pass-generator/issues">
+      href="https://github.com/brunavillanovaCode/Sequenciador-de-senhas-do-Batman/issues">
       Report Bug
     </a>
     ·
     <a 
-      href="https://github.com/brunavillanovaCode/react-native-bat-pass-generator/issues/new">
+      href="https://github.com/brunavillanovaCode/Sequenciador-de-senhas-do-Batman/issues/new">
       Request Feature
     </a>
   </p>
